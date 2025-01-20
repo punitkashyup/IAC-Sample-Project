@@ -2,6 +2,8 @@
 
 This repository contains Terraform configuration files to deploy and manage a development environment on AWS. It provisions key infrastructure components such as VPC, EC2 instances, S3 buckets, and integrates GitHub for deployment pipelines.
 
+![image info](./diagram.png)
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Features](#features)
